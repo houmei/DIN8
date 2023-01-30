@@ -9,3 +9,9 @@ PCB
 
 
 ## 説明
+
+[DINコネクタ変換基板とDINコネクタの入手先](http://blog.livedoor.jp/hardyboy/archives/10178357.html "まごころせいじつ堂")
+
+## ToDo
+
+線幅を太くする　ベタを付ける
